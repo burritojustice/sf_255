@@ -362,7 +362,7 @@ layers:
         filter: {not: {kind: ferry, kind: highway}}
     buildings:
         filter: 
-            all:
+            any:
                 - $zoom: {min: 16}
                 - height: {min: 80}
     pois:
