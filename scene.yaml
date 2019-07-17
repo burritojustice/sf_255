@@ -317,6 +317,7 @@ layers:
                         color: black
                         width: 2px
     water:
+        filter: {name: Lake Merced}
         water-boundary-ocean:
             draw:
                 lines:
