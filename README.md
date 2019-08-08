@@ -1,4 +1,4 @@
-SF / San Andres movie 255’ inundation map 
+SF / San Andreas movie 255’ tsunami inundation map 
 
 https://burritojustice.github.io/sf_slr/
 
